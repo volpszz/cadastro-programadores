@@ -34,5 +34,5 @@ Você precisará ter o [Rust e Cargo](https://www.rust-lang.org/tools/install) i
 
 1. **Clone este repositório:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-   cd SEU-REPOSITORIO
+   git clone [https://github.com/volpszz/cadastro-programadores](https://github.com/volpszz/cadastro-programadores)
+   cd cadastro-programadores
